@@ -1,4 +1,213 @@
 body{
     padding: 0;
     margin: 0;
+    font-family: 'PT Sans Narrow', sans-serif;
 }
+.face{
+    height: 750px;
+    background-image: url("images/donation13.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+}
+.partition{
+    padding: 60px;
+}
+.face h1{
+    color: aliceblue;
+    font-size: 75px;
+    font-weight: bolder;
+}
+.face p{
+    color: aliceblue;
+    font-size: 30px;
+}
+.first_href{
+    text-decoration: none;
+    background-color: tomato;
+    font-size: 35px;
+    font-weight: bold;
+    color: antiquewhite;
+    border-radius: 8px;
+    padding: 20px;
+}
+.chest{
+    text-align: center;
+}
+.chest_upper h1{
+    font-size: 55px;
+    font-weight: bolder;
+}
+.chest_upper p{
+    font-size: 25px;
+    color: rgb(131, 131, 131);
+    
+}
+.chest_middle{
+    margin:0 auto;
+    display: flex;
+    padding: 30px;
+}
+.div_1{
+    margin: 0 auto;
+    padding: 20px;
+}
+.sp{
+    border: 2px solid tomato;
+    background-color: rgba(204, 204, 204, 0.966);
+}
+.sp h5{
+    color: tomato;
+}
+.div_1 h5{
+    font-size: 35px;
+    font-weight: bolder;
+}
+.chest_down p{
+    color: rgb(175, 175, 175);
+    font-size: 30px;
+}
+.second_href{
+    text-decoration: none;
+    background-color: tomato;
+    font-size: 35px;
+    font-weight: bold;
+    color: antiquewhite;
+    border-radius: 8px;
+    padding: 20px;
+}
+.belly{
+    text-align: center;
+    margin-top: 80px;
+}
+.belly_down{
+    display: flex;
+    padding: 30px;
+}
+.Fst{
+    padding: 15px;
+    width: 33.33%;
+    background-color: rgb(226, 208, 235);
+}
+.Fst h4{
+    font-size: 25px;
+    font-weight: bold;
+}
+.Fst p{
+    font-size: 20px;
+}
+.Snd{
+    padding: 15px;
+    width: 33.33%;
+    margin-left: 20px;
+    background-color: rgb(203, 203, 255);
+}
+.Snd h4{
+    font-size: 25px;
+    font-weight: bold;
+}
+.Snd p{
+    font-size: 20px;
+}
+.Trd{
+    padding: 15px;
+    width: 33.33%;
+    margin-left: 20px;
+    background-color: rgb(226, 208, 235);
+}
+.Trd h4{
+    font-size: 25px;
+    font-weight: bold;
+}
+.Trd p{
+    font-size: 20px;
+}
+.contain{
+    width: 100%;
+    padding: 30px;
+    margin-top: 70px;
+}
+.thai{
+    display: flex;
+    padding: 20px;
+}
+.knee{
+    margin-top: 50px;
+    display: flex;
+    padding: 20px;
+}
+.div_3{
+    width: 50%;
+}
+.div_3 img{
+    height: 400px;
+    width: 80%;
+    border-radius: 10px;
+}
+.div_4{
+    width: 50%;
+}
+.div_4 h3{
+    font-size: 35px;
+    font-weight: bold;
+}
+.div_4 p{
+    font-size: 25px;
+    color: rgb(175, 175, 175);;
+}
+.leg{
+    text-align: center;
+}
+.leg h4{
+    font-size: 40px;
+    font-weight: boild;
+}
+.leg_head p{
+    font-size: 35px;
+}
+.leg_body{
+    display: flex;
+    padding: 90px;
+    background-color: rgb(255, 210, 255);
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.leg_left{
+    width: 500px;
+    background-color:rgb(218, 218, 218);
+    margin-left: 230px;
+    text-align: left;
+    border-radius: 5px;
+}
+.leg_left p{
+    font-size: 25px;
+    color: rgb(105, 105, 105);
+}
+.leg_right p{
+    font-size: 25px;
+    color: whitesmoke;
+}
+.leg_right{
+    width: 300px;
+    background-color: tomato;
+    margin-right: 50px;
+    border-radius: 5px;
+    
+}
+.footer{
+    width: 100%;
+    height: 250px;
+    background-color: black;
+    text-align: center;
+    margin-top: 60px;
+}
+.footer h4{
+    color: tomato;
+    font-size: 40px;
+}
+.footer p{
+    color: azure;
+}
+
+
